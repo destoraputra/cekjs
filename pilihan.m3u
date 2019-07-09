@@ -1,3 +1,44 @@
+    
+#EXTINF:0, group-title="MOVIE",HBO
+http://210.210.155.35/uq2663/h/h231/index2.m3u8
+
+#EXTINF:0, group-title="MOVIE",CINEMA WORLD
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
+
+#EXTINF:0, group-title="MOVIE",MY CINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+
+
+#EXTINF:0, group-title="MOVIE",THRILL
+http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+
+
+#EXTINF:0, group-title="MOVIE",CELESTIAL MOVIE
+
+http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
+
+
+#EXTINF:0, group-title="MOVIE",KIX
+http://210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8
+
+#EXTINF:0, group-title="MOVIE",ZEE BIOSKOP
+http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/01.m3u8
+
+#EXTINF:0, group-title="MOVIE",&FILX
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="MOVIE",&PRIVE
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="MOVIE",SYFY
+http://23.237.22.82:8086/udp/127.0.0.1:56063
+
+#EXTINF:0, group-title="MOVIE",FOX MOVIES PREMIUM
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+
+#EXTINF:0, group-title="MOVIE",FOX LIFE
+http://103.242.13.90:5555/udp/239.4.1.82:10000
+
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Indonesia-01.png" group-title="LABEL",~ Indonesia TV ~
 http://www.lengua.com/anthems/Indonesia.mp3
 
@@ -73,8 +114,6 @@ http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" group-title="INDONESIA",K Drama
 http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CUgQtCo.jpg" group-title="INDONESIA",Karaoke Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="http://tough.kix-tv.com/Public/images/kix-hd-logo.png" group-title="INDONESIA",Kix (Opt-1)
 http://210.210.155.35/uq2663/h/h07/01.m3u8?fluxustv.m3u8
@@ -174,6 +213,33 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O3pDm4l.png" group-title="INDONESIA",TVRI Sport
 http://210.210.155.35/session/8dc2906e-1a3d-11e9-b2c3-8aac890eb9f3/qwr9ew/s/s48/index.m3u8?fluxustv.m3u8
+
+#EXTINF:0, group-title="KIDS",ANIMAX
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+
+#EXTINF:0, group-title="KIDS",MY KIDS
+http://210.210.155.35/session/e182f600-c3a1-11e8-aa13-a4dba5aaae34/x6bnqe/s/s30/S4/mnf.m3u8
+
+#EXTINF:0, group-title="KIDS",DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:0, group-title="KIDS",BIZNET KIDS
+http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w381752356_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
+
+#EXTINF:0, group-title="KIDS",MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+
+#EXTINF:0, group-title="KIDS",CARTOON NETWORK 
+http://persik.by/stream/2944/263250/32.m3u8
+
+#EXTINF:0, group-title="KIDS",DISNEY CHANNEL
+http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+
+#EXTINF:-1,group-title="KIDS",50
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+
+#EXTINF:-1,group-title="KIDS",DA VINCI KIDS
+http://210.210.155.35/uq2663/h/h01/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG42.png" group-title="24/7",Tom & Jerry (Src-1)
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
@@ -320,3 +386,20 @@ http://112.175.248.34:1935/ytn/_definst_/ylivehd_20140419_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-ytn-science.jpg" group-title="SOUTH KOREA",YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
+#EXTINF:-1,KNOWLEDGE - [281] National Geographic
+rtp://@239.1.2.169:8988
+
+#EXTINF:-1,KNOWLEDGE - [282] National Geographic Wild
+rtp://@239.1.2.35:8184
+
+#EXTINF:-1,KNOWLEDGE - [000] National Geographic Wild (HD)
+rtp://@239.1.1.207:9216
+
+#EXTINF:-1,KNOWLEDGE - [283] Crime & Investigations
+rtp://@239.1.2.59:8328
+
+#EXTINF:-1,KNOWLEDGE - [284] fyi
+rtp://@239.1.2.61:8340
+
+#EXTINF:-1,KNOWLEDGE - [285] History Channel
+rtp://@239.1.2.57:8316
